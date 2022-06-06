@@ -43,7 +43,7 @@
             standard dummy text ever since the 1500s when an unknown printer took galley type and scrambled.
           </p>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard.
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry is standard.
           </p>
         </div>
         <div class="grid grid-cols-2 gap-7 col-span-8 bg-[#f4f4f4] py-[3rem] px-[3rem] rounded-xl">
