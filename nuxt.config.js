@@ -52,6 +52,6 @@ export default {
       }
     }
   },
-  target: 'static',
+  target: 'serverless',
   ssr: false
 }
