@@ -38,6 +38,22 @@ module.exports = {
         fadeInOutProFile: 'fadeInOutProFile 1s ease-in-out'
       }
     }
+    // screens: {
+    //   '2xl': { max: '1535px' },
+    //   // => @media (max-width: 1535px) { ... }
+    //   xl: { max: '1279px' },
+    //   // => @media (max-width: 1279px) { ... }
+    //   lg: { max: '1023px' },
+    //   // => @media (max-width: 1023px) { ... }
+    //   md2: { min: '767px' },
+    //   // => @media (min-width: 767px) { ... }
+    //   maxmd: { min: '767px' },
+    //   // => @media (min-width: 1023px) { ... }
+    //   minmd: { max: '768px' },
+    //   // => @media (max-width: 767px) { ... }
+    //   sm: { max: '639px' }
+    //   // => @media (max-width: 639px) { ... }
+    // }
   },
   plugins: []
 }

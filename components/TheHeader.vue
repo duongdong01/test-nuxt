@@ -1,6 +1,6 @@
 <template>
   <header class="flex flex-col bg-[#fff]">
-    <div class="bg-[#5138ee]">
+    <div class="bg-[#5138ee] sm:hidden">
       <div class="flex flex-row  max-w-screen-xl mx-auto h-12  text-white font-semibold">
         <div class="basis-1/4 leading-[3rem]">
           <ul class="Text_Contract">
